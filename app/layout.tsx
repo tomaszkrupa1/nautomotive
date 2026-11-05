@@ -1,12 +1,9 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
 import './globals.css'
 
-const inter = Inter({ subsets: ['latin'] })
-
 export const metadata: Metadata = {
-  title: "O'Byrne Automotive | Mobile Mechanic Yorkshire",
-  description: 'Professional mobile mechanic services across Yorkshire. Recovery, breakdowns, repairs, and maintenance at your location.',
+  title: 'O’Byrne Automotive | Mobile Mechanic in Leeds & Yorkshire',
+  description: 'Fully qualified mobile mechanic with 10+ years of experience. Vehicle repairs, servicing, diagnostics and breakdown assistance at your home or workplace across Yorkshire.',
 }
 
 export default function RootLayout({
@@ -16,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} bg-white text-gray-900`}>{children}</body>
+      <body>{children}</body>
     </html>
   )
 }

@@ -30,3 +30,13 @@ Can you think of anything key I’m missing that most websites have pal?
 Not sure on how it’s best to word it all either bro to be honest or how it’ll look set out but guessing you’ll take care of that👌🏻
 What’s best to send pictures to you mate would it be email or WhatsApp alright? Whatever you want mate can send my logo and some pictures of jobs before/afters
 Cheers mate
+
+
+
+
+--------------- Information required
+
+Tax number
+GoDaddy Credentials
+Photos of before and after
+Upres the logo
