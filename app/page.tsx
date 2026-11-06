@@ -76,7 +76,7 @@ export default function Home() {
             </p>
             <div className="hero-actions">
               <a className="button button-accent" href="tel:07740022028">
-                Call 07740 022028 <span aria-hidden="true">↗</span>
+                Call 07740 022028
               </a>
               <a className="text-link" href="#services">See what we fix <span aria-hidden="true">↓</span></a>
             </div>
@@ -140,14 +140,13 @@ export default function Home() {
             <h2>Let’s get you<br />back on the road.</h2>
             <p>Based in Leeds, covering all of Yorkshire. Call for a quick chat about your vehicle.</p>
             <a className="button button-accent contact-call" href="tel:07740022028">
-              Call 07740 022028 <span aria-hidden="true">↗</span>
+              Call 07740 022028
             </a>
           </div>
           <div className="contact-links" aria-label="Contact and social links">
             <a className="contact-link" href="mailto:obyrneautomotive@gmail.com">
               <span>Email</span>
               <strong>obyrneautomotive@gmail.com</strong>
-              <span className="contact-link-arrow" aria-hidden="true">↗</span>
             </a>
             <a
               className="contact-link"
@@ -157,7 +156,6 @@ export default function Home() {
             >
               <span>Instagram</span>
               <strong>@obyrneautomotive</strong>
-              <span className="contact-link-arrow" aria-hidden="true">↗</span>
             </a>
             <a
               className="contact-link"
@@ -167,7 +165,6 @@ export default function Home() {
             >
               <span>Facebook</span>
               <strong>O’Byrne Automotive</strong>
-              <span className="contact-link-arrow" aria-hidden="true">↗</span>
             </a>
           </div>
         </div>
